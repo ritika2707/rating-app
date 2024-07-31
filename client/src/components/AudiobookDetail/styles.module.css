@@ -1,0 +1,41 @@
+.detailPage {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.audiobookDetail {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+.audiobookImg {
+    width: 50%;
+    max-width: 200px;
+    margin-right: 50px;
+}
+
+.audiobookGenres {
+    margin: 20px 0;
+}
+
+.audiobookGenre {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.audiobookRating {
+    display: flex;
+}
+
+.audiobookRating img {
+    width: 20px;
+    margin-right: 5px;
+}

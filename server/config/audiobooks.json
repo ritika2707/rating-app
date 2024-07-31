@@ -1,0 +1,170 @@
+[
+    {
+        "title": "The Haunting of Hill House",
+        "year": 1813,
+        "author": "Shirley Jackson",
+        "genre": [
+            "Horror",
+            "Mystery"
+        ],
+        "description": "A chilling tale of a haunted house and the people who become involved with it.",
+        "rating": 4.4,
+        "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVL48A9jhJishm-i1kOubNYs_SlIE2xmk7YmjHh3WF5uiSG00E"
+    },
+    {
+        "title": "The Shining",
+        "year": 1977,
+        "author": "Stephen King",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "description": "A horror novel about a family who becomes isolated in a haunted hotel with terrifying consequences.",
+        "rating": 4.7,
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR38YWKNniX03S3nPtHxLi2k3l8Oa5aolYx1dfcmioUZ_JQ21_G"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "year": 1951,
+        "author": "J.D. Salinger",
+        "genre": [
+            "Drama",
+            "Classic"
+        ],
+        "description": "A story about a troubled teenager navigating the complexities of life and growing up.",
+        "rating": 4.2,
+        "img": "https://m.media-amazon.com/images/I/51TI+w56qFL._SY445_SX342_.jpg"
+    },
+    {
+        "title": "Gone Girl",
+        "year": 2012,
+        "author": "Gillian Flynn",
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "description": "A psychological thriller about a woman who goes missing and the media frenzy that follows.",
+        "rating": 4.5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2UY2wGlCFcVAwDnuj3Vpd_LSmNc8ZY0mGh3GNOpi4siVgL_V"
+    },
+    {
+        "title": "Dune",
+        "year": 1965,
+        "author": "Frank Herbert",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "description": "A science fiction epic set on the desert planet of Arrakis, where noble houses vie for control of a precious substance called spice.",
+        "rating": 4.6,
+        "img": "https://m.media-amazon.com/images/I/615OHjks0WL._SY466_.jpg"
+    },
+    {
+        "title": "Becoming",
+        "year": 2003,
+        "author": "Michelle Obama",
+        "genre": [
+            "Biography",
+            "Autobiography"
+        ],
+        "description": "The former First Lady of the United States shares her personal journey from her childhood in Chicago to the White House.",
+        "rating": 4.8,
+        "img": "https://m.media-amazon.com/images/I/41Aoktw-fEL._SY445_SX342_.jpg"
+    },
+    {
+        "title": "The Martian",
+        "year": 1981,
+        "author": "Andy Weir",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "description": "A gripping story of an astronaut stranded on Mars and his struggle for survival.",
+        "rating": 4.7,
+        "img": "https://m.media-amazon.com/images/I/810W+zAp2DL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "year": 2006,
+        "author": "Stieg Larsson",
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "description": "A gripping mystery involving a journalist and a hacker uncovering dark secrets.",
+        "rating": 4.4,
+        "img": "https://m.media-amazon.com/images/I/8133MFwkxOL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "year": 1813,
+        "author": "Mario Puzo",
+        "genre": [
+            "Crime Fiction",
+            "Drama"
+        ],
+        "description": "A classic novel about the powerful and dangerous Corleone crime family.",
+        "rating": 4.6,
+        "img": "https://m.media-amazon.com/images/I/61zAyF3qLnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Best of Edgar Allan Poe",
+        "year": 1915,
+        "author": "Edgar Allan Poe",
+        "genre": [
+            "Horror",
+            "Short Story"
+        ],
+        "description": "A collection of Edgar Allan Poe's most famous short stories, including 'The Tell-Tale Heart' and 'The Raven.'",
+        "rating": 4.3,
+        "img": "https://m.media-amazon.com/images/I/71z3HvUJoPL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Into the Wild",
+        "year": 2011,
+        "author": "Jon Krakauer",
+        "genre": [
+            "Biography",
+            "Adventure"
+        ],
+        "description": "The true story of Christopher McCandless's journey into the Alaskan wilderness.",
+        "rating": 4.5,
+        "img": "https://m.media-amazon.com/images/I/61A+LdmTESL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Road",
+        "year": 2009,
+        "author": "Cormac McCarthy",
+        "genre": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "description": "A harrowing post-apocalyptic novel about a father and son traveling through a desolate world.",
+        "rating": 4.4,
+        "img": "https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Ocean at the End of the Lane",
+        "year": 1875,
+        "author": "Neil Gaiman",
+        "genre": [
+            "Fantasy",
+            "Mystery"
+        ],
+        "description": "A novel blending fantasy and mystery as a man recalls a magical and haunting childhood.",
+        "rating": 4.5,
+        "img": "https://m.media-amazon.com/images/I/91BGfwQN8WL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "The Night Circus",
+        "year": 1954,
+        "author": "Erin Morgenstern",
+        "genre": [
+            "Fantasy",
+            "Romance"
+        ],
+        "description": "A magical tale of a mysterious circus and two young illusionists bound in a high-stakes competition.",
+        "rating": 4.6,
+        "img": "https://m.media-amazon.com/images/I/71+whvJjE3L._AC_UF1000,1000_QL80_.jpg"
+    }
+]

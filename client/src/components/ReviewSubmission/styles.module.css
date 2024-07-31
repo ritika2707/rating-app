@@ -1,0 +1,57 @@
+.reviewForm {
+    display: flex;
+    align-items: start;
+    margin: 10px 40px;
+}
+
+.form {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
+
+.reviewForm h3 {
+    margin-bottom: 5px;
+}
+
+.error {
+    color: red;
+}
+
+.rating {
+    margin-bottom: 5px;
+}
+
+.stars {
+    display: flex;
+    cursor: pointer;
+}
+
+.star {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.review {
+    display: flex;
+    width: 100%;
+    height: 50px;
+}
+
+textarea {
+    width: 500px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.submitButton {
+    background-color: #f39c12;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 5px;
+
+}
