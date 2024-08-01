@@ -10,7 +10,7 @@ const ReviewSubmission = ({ audiobookId, onReviewSubmitted }) => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await axios.post(`http://localhost:8080/api/audiobooks/${audiobookId}/reviews`, { rating, review });
+            const response = await axios.post(`https://rating-app-backend-7j45.onrender.com/api/audiobooks/${audiobookId}/reviews`, { rating, review });
             onReviewSubmitted(response.data);
             setRating(0);
             setReview('');
